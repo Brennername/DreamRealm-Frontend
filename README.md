@@ -1,4 +1,8 @@
-# DreamRealmFrontend
+# DreamRealm Frontend
+The DreamRealm Frontend is an Angular based front end for the DreamRealm blog application. The backend can be found, predictably, in the DreamRealm-Backend repo. This project is in the earliest phase and nothing has been done as of yet except
+scaffolding.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
